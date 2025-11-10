@@ -97,6 +97,15 @@ p {
   width: 100%;
 }
 
+.footer {
+  background-color: #ffff;
+  box-shadow: 2px 8px 10px rgba(0, 0, 0, 0.2);
+  a {
+    text-decoration: none;
+    color: #98b6de;
+  }
+}
+
 .nav_bar {
   background-color: bisque;
   position: fixed;
@@ -521,3 +530,4 @@ main {
     height: 200px;
   }
 }
+
