@@ -101,7 +101,10 @@ p {
   background-color: #ffff;
   box-shadow: 2px 8px 10px rgba(0, 0, 0, 0.2);
   width: 80%;
+  align-items: center;
+  text-align: center;
   position: fixed;
+  padding: 10px;
   a {
     text-decoration: none;
     color: #98b6de;
@@ -532,5 +535,6 @@ main {
     height: 200px;
   }
 }
+
 
 
